@@ -62,4 +62,4 @@ This project helps in understanding:
 - LICENSE: License information for the project.
 
 ## live demo
-You can view a live demo of the project [here](https://your-live-demo-link.com).
+You can view a live demo of the project [here](https://rustom-yadav.github.io/Accessible-tablist-component/).
